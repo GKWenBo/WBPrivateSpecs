@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.frameworks = 'Foundation'
   s.dependency 'UMCCommon'
   s.dependency 'UMCAnalytics'
-  s.dependency 'UMCSecurityPlugins'
+  #s.dependency 'UMCSecurityPlugins'
 end
